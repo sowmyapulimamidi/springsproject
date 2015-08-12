@@ -1,5 +1,5 @@
 package org.sowmya.spring;
-//changed the thingsss...
+//changed the thingsss...reddy
 public class Restuarant {
 	
 	IHotDrink hotDrink;
